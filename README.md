@@ -14,7 +14,7 @@ This project serves as a showcase of advanced Power BI techniques and offers a d
 ## Dashboards Screenshots
 
 ### Executive Dashboard
-<img src="https://github.com/AndreaOliver/AdventureWorks-BikeShop/blob/main/AdventureWorks Screenshots/AdventureWorks-ExecutiveDashboard.png">
+<img src="https://github.com/AndreaOliver/AdventureWorks-BikeShop/blob/main/AdventureWorks Screenshots/AdventureWorks-ExecDashboard.png">
 
 ### Map Dashboard
 <img src="https://github.com/AndreaOliver/AdventureWorks-BikeShop/blob/main/AdventureWorks Screenshots/AdventureWorks-MapDashboard.png">
